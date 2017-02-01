@@ -36,6 +36,11 @@
             "hidev\\hiqsol\\": "src"
         }
     },
+    "extra": {
+        "config-plugin": {
+            "hidev": "src/config/hidev.php"
+        }
+    },
     "repositories": [
         {
             "type": "composer",
