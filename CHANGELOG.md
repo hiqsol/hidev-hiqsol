@@ -1,5 +1,9 @@
 # hiqsol/hidev-hiqsol
 
+## [0.0.3] - 2017-02-01
+
+- Added forgotten extra config plugin in `composer.json` ([@hiqsol])
+
 ## [0.0.2] - 2017-02-01
 
 - Fixed github nick to `hiqsol` <- sol ([@hiqsol])
@@ -16,3 +20,4 @@
 [Under development]: https://github.com/hiqsol/hidev-hiqsol/compare/0.0.2...HEAD
 [0.0.1]: https://github.com/hiqsol/hidev-hiqsol/releases/tag/0.0.1
 [0.0.2]: https://github.com/hiqsol/hidev-hiqsol/compare/0.0.1...0.0.2
+[0.0.3]: https://github.com/hiqsol/hidev-hiqsol/compare/0.0.2...0.0.3

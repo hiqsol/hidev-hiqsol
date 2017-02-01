@@ -1,5 +1,10 @@
 # hiqsol/hidev-hiqsol
 
+## [0.0.3] - 2017-02-01
+
+- Added forgotten extra config plugin in `composer.json`
+    - [b96cc54] 2017-02-01 added forgotten extra config plugin in composer.json [@hiqsol]
+
 ## [0.0.2] - 2017-02-01
 
 - Fixed github nick to `hiqsol` <- sol
@@ -22,3 +27,5 @@
 [d959004]: https://github.com/hiqsol/hidev-hiqsol/commit/d959004
 [0.0.2]: https://github.com/hiqsol/hidev-hiqsol/compare/0.0.1...0.0.2
 [0ab5973]: https://github.com/hiqsol/hidev-hiqsol/commit/0ab5973
+[b96cc54]: https://github.com/hiqsol/hidev-hiqsol/commit/b96cc54
+[0.0.3]: https://github.com/hiqsol/hidev-hiqsol/compare/0.0.2...0.0.3
