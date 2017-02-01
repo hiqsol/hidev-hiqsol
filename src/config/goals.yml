@@ -12,3 +12,9 @@ vendor:
             github:     https://github.com/hiqsol
             homepage:   http://hiqdev.com/
 
+default:
+    before:
+        - README.md
+        - LICENSE
+        - .gitignore
+
