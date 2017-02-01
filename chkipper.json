@@ -1,0 +1,11 @@
+{
+    "name": "hiqsol/hidev-hiqsol",
+    "authors": {
+        "sol": {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "github": "https://github.com/hiqsol",
+            "homepage": "http://hiqdev.com/"
+        }
+    }
+}
