@@ -1,0 +1,14 @@
+vendor:
+    name:       hiqsol
+    title:      sol
+    github:     https://github.com/hiqsol
+    homepage:   http://hiqdev.com/
+    email:      sol@hiqdev.com
+    license:    MIT
+    authors:
+        sol:
+            name:       Andrii Vasyliev
+            email:      sol@hiqdev.com
+            github:     https://github.com/hiqsol
+            homepage:   http://hiqdev.com/
+

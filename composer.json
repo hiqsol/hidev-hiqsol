@@ -1,0 +1,45 @@
+{
+    "name": "hiqsol/hidev-hiqsol",
+    "type": "yii2-extension",
+    "description": "Sol's configuration for HiDev",
+    "keywords": [
+        "sol",
+        "hiqsol",
+        "hidev",
+        "vendor",
+        "config"
+    ],
+    "homepage": "https://github.com/hiqsol/hidev-hiqsol",
+    "license": "MIT",
+    "support": {
+        "email": "sol@hiqdev.com",
+        "source": "https://github.com/hiqsol/hidev-hiqsol",
+        "issues": "https://github.com/hiqsol/hidev-hiqsol/issues",
+        "wiki": "https://github.com/hiqsol/hidev-hiqsol/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "http://hiqdev.com/"
+        }
+    ],
+    "require": {
+        "hiqdev/hidev-readme": "<2.0",
+        "hiqdev/hidev-license": "<2.0"
+    },
+    "require-dev": {
+        "hiqdev/hidev-php": "<2.0 || dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "hidev\\hiqsol\\": "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}

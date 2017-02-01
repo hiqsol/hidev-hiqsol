@@ -1,0 +1,23 @@
+package:
+    type:           yii2-extension
+    name:           hidev-hiqsol
+    title:          Sol's configuration for HiDev
+    headline:       hidev sol
+    keywords:       sol, hiqsol, hidev, vendor, config
+    namespace:      hidev\hiqsol
+    description:    |
+        [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
+
+        This plugin provides [sol's](https://github.com/hiqsol) vendor configuration for HiDev.
+        Used for sol's own packages.
+
+        Provides sol's information and settings:
+
+        - contact data: nick, full name, email, github page
+        - default license: MIT
+
+        See [src/config/goals.yml](src/config/goals.yml).
+
+include:
+    - src/config/goals.yml
+
