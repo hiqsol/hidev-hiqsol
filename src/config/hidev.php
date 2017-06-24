@@ -2,10 +2,8 @@
 
 return [
     'components' => [
-        'config' => [
-            'include' => [
-                '@hidev/hiqsol/config/goals.yml',
-            ],
+        'include' => [
+            __DIR__ . '/goals.yml'
         ],
     ],
 ];
